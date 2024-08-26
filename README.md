@@ -12,9 +12,12 @@ This project is a simple music service that allows users to register, search and
 
 
 ## Tech Stack
-* Backend: Laravel
-* Frontend: Vue.JS
-* Database: MySQL
-* File Storage: MinIO
-* Cache and Token Storage: Redis
-* Authentication: JWT using the firebase/php-jwt library
+* **Backend:** Laravel
+* **Frontend:** Vue.JS
+* **Database:** MySQL
+* **ORM:** Eloquent
+* **File Storage:** MinIO
+* **Cache and Token Storage:** Redis
+* **Authentication:** JWT using the firebase/php-jwt library
+* **Web Server:** Nginx
+* **Containerization:** Docker
