@@ -1,1 +1,1 @@
-# music-service
+# Music Service Laravel + VueJS
